@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "html project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Milica-Radulovic/project.git"
+  },
+  "keywords": [
+    "html, css"
+  ],
+  "author": "Milica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Milica-Radulovic/project/issues"
+  },
+  "homepage": "https://github.com/Milica-Radulovic/project#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
